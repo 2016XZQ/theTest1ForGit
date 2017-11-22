@@ -22,6 +22,6 @@ I don't know.
 > git checkout dev
 > git branch
 > git merge dev
-> git branch -d dev
+> git branch -b dev
 >
 none
