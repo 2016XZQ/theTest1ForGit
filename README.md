@@ -23,5 +23,6 @@ I don't know.
 > git branch
 > git merge dev
 > git branch -d dev
+> git log --graph --pretty=oneline --abbrev-commit
 >
 none
