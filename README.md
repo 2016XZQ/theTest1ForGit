@@ -24,5 +24,9 @@ git branch
 git merge dev
 git branch -d dev
 git log --graph --pretty=oneline --abbrev-commit
+git stash
+git stash apply
+git stash pop
+git stash list
 ’‘’
 none
