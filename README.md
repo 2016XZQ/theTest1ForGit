@@ -22,6 +22,7 @@ git branch dev
 git checkout dev
 git branch
 git merge dev
+git merge --no-ff -m "log"
 git branch -d dev
 git log --graph --pretty=oneline --abbrev-commit
 ’‘’
