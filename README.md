@@ -1,6 +1,4 @@
 # theTest1ForGit
-## so,how to do this?the words...to make more sence?
-I don't know.
 
 + git init 在目录中创建新的 Git 仓库
 + git add [file] 将修改添加到暂存区
@@ -29,5 +27,3 @@ I don't know.
 + git stash apply 恢复临时保存的状态
 + git stash pop 恢复的同时删除stash内容
 + git stash list 查看现有的保存
-
-none
